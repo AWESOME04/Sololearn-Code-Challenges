@@ -29,5 +29,6 @@ The projects in this section cover advanced topics and are designed to challenge
 
 Certificate of Completeion @Sololearn:
 
-[Python Core.pdf](https://github.com/AWESOME04/Sololearn-Code-Challenges/files/11591606/Python.Core.pdf)
+![Python Core](https://github.com/AWESOME04/Sololearn-Code-Challenges/assets/102630199/ffd8dc67-2279-43b9-8c5c-9b5741845c57)
+
 
