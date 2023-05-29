@@ -27,7 +27,7 @@ Disclaimer
 
 The projects in this section cover advanced topics and are designed to challenge and deepen your understanding of Python. It is recommended that you have a solid grasp of Python fundamentals before attempting these projects. These projects are not intended to be production-ready code but rather serve as learning exercises.
 
-## Certificate of Completeion @Sololearn:
+## Certificate of Completion @Sololearn:
 
 ![Python Core](https://github.com/AWESOME04/Sololearn-Code-Challenges/assets/102630199/ffd8dc67-2279-43b9-8c5c-9b5741845c57)
 
