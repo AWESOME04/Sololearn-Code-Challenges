@@ -26,3 +26,8 @@ To contribute, please follow the contribution steps mentioned in the main reposi
 Disclaimer
 
 The projects in this section cover advanced topics and are designed to challenge and deepen your understanding of Python. It is recommended that you have a solid grasp of Python fundamentals before attempting these projects. These projects are not intended to be production-ready code but rather serve as learning exercises.
+
+Certificate of Completeion @Sololearn:
+
+[Python Core.pdf](https://github.com/AWESOME04/Sololearn-Code-Challenges/files/11591606/Python.Core.pdf)
+
