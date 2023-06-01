@@ -1,4 +1,4 @@
-# Python for Data Science Code Projects
+# Python For Data Science Code Projects
 
 Welcome to the SoloLearn Python Data Science Code Projects section of the SoloLearn Code Challenges repository! This subfolder is dedicated to providing code projects specifically focused on data science using the Python programming language.
 
