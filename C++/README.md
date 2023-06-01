@@ -28,7 +28,7 @@ To contribute, please follow the contribution steps mentioned in the main reposi
 
 The projects in this section are designed to enhance your C++ programming skills and provide practical experience. They may cover different topics and require different levels of expertise. It is recommended to have a basic understanding of C++ programming before attempting these projects.
 
-Certificate of Completeion @Sololearn:
+Certificate of Completion @Sololearn:
 
 ![5f93174f-12ef-4a71-a81a-d991996a9598](https://github.com/AWESOME04/Sololearn-Code-Challenges/assets/102630199/381595c3-1453-4978-bedf-9bb444b81b46)
 
