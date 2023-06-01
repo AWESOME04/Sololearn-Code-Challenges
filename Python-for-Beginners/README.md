@@ -27,6 +27,6 @@ Disclaimer
 
 The projects in this section are aimed at Python beginners and are intended for educational purposes. These projects are not intended to be production-ready or cover advanced concepts. They are designed to help beginners practice their Python skills and gain hands-on experience.
 
-## Certificate of Completeion @Sololearn:
+## Certificate of Completion @Sololearn:
 
 ![cert-CT-CMPSGSG7](https://github.com/azminewasi/Sololearn-Course-Projects/assets/102630199/c2dd802a-510e-4a0d-80d6-0f4125cd1bb2)
