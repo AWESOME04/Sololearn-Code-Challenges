@@ -10,7 +10,7 @@ This section focuses on projects that involve data analysis, data visualization,
 
 To get started with the SoloLearn Python Data Science Code Projects, follow these steps:
 
-    Navigate to the Python_Data_Science directory in this repository.
+    Navigate to the Python Data Science directory in this repository.
     Inside the directory, you will find individual project folders, each with its own README file and Python code file(s).
     Open the project folder that interests you, and you will find a detailed README file providing an overview of the project and its requirements.
     Read the project requirements and instructions carefully to understand what is expected.
