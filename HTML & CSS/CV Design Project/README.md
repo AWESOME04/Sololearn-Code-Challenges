@@ -9,11 +9,11 @@ Getting Started
 
 To get started with the HTML and CSS CV Project, follow these steps:
 
-    Navigate to the HTML_CSS_CV_Project directory in this repository.
-    Inside the directory, you will find an HTML file (index.html) and a CSS file (style.css).
-    Open the index.html file in your preferred web browser or HTML editor.
+    Navigate to the CV Design Project directory in this repository.
+    Inside the directory, you will find an HTML file (CV.html) and a CSS file (CV.css).
+    Open the CV.html file in your preferred web browser or HTML editor.
     Modify the HTML content and structure to match your personal information, such as name, contact details, education, work experience, and any other relevant sections.
-    Customize the CSS styles in the style.css file to adjust the layout, fonts, colors, and other visual aspects of your CV.
+    Customize the CSS styles in the CV.css file to adjust the layout, fonts, colors, and other visual aspects of your CV.
     Save the changes and refresh the HTML file in the browser to see the updated version of your CV.
     Continue refining and customizing the design until you are satisfied with the final result.
 
