@@ -26,3 +26,18 @@ To contribute, please follow the contribution steps mentioned in the main reposi
 ## Disclaimer
 
 The CV sample provided in this section is a basic template to get you started. It is not an exhaustive or comprehensive CV format. Feel free to modify and adapt it to suit your personal requirements and design preferences.
+
+## Certificates of Completion @ Sololearn:
+
+## HTML
+
+![Intro to HTML - Sololearn](https://github.com/AWESOME04/Sololearn-Code-Challenges/assets/102630199/ee24e6b5-d894-4d25-bac1-cb510f79abf4)
+
+
+## CSS
+
+![Intro to CSS - Sololearn](https://github.com/AWESOME04/Sololearn-Code-Challenges/assets/102630199/710a781b-0130-4ee8-a307-d86ce378e75f)
+
+
+
+
