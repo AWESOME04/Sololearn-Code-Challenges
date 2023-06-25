@@ -1,14 +1,14 @@
-The Math Class
+# The Math Class
 
 Write a program to take numbers as input and return the first number raised to the power of the second number.
 
-Sample Input
+## Sample Input
 
 2
 
 4
 
-Sample Output
+## Sample Output
 
 16.0
 
