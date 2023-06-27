@@ -1,4 +1,4 @@
-Inheritance
+# Inheritance
 
 You are developing your own photo editing application.
 
