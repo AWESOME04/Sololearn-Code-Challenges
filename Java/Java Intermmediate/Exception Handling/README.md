@@ -1,4 +1,4 @@
-## Exception Handling
+# Exception Handling
 
 An online electronics store has 5 product categories - PCs, Notebooks, Tablets, Phones, and Аccessories.
 
