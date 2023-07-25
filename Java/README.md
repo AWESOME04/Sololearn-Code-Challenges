@@ -44,5 +44,9 @@ The challenges in both sections are designed to enhance your Java programming sk
 
 ## Certificate of Completion @Sololearn:
 
+![Intro to Java - Sololearn](https://github.com/AWESOME04/Sololearn-Code-Challenges/assets/102630199/7772b209-cc73-45cf-ab00-8886df2be83f)
 
+
+
+![Java Intermediate - Sololearn](https://github.com/AWESOME04/Sololearn-Code-Challenges/assets/102630199/c9b62679-f58a-41cd-a341-1ea5ea28b9bc)
 
