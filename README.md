@@ -12,6 +12,7 @@ To get started, simply navigate through the repository and explore the available
 
 Feel free to browse through the challenges, select the ones that interest you, and attempt to solve them using your preferred programming language. You can compare your solutions with others, learn from different approaches, and contribute your own solutions as well.
 
+
 ## Contributing
 
 Contributions are highly encouraged and welcomed from the programming community. If you have a solution or an alternative approach to any of the challenges, we'd love to include it in the repository.
