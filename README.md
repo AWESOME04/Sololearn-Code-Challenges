@@ -15,7 +15,6 @@ Feel free to browse through the challenges, select the ones that interest you, a
 
 ## Contributing
 
-
 Contributions are highly encouraged and welcomed from the programming community. If you have a solution or an alternative approach to any of the challenges, we'd love to include it in the repository.
 
 To contribute, please follow these steps:
